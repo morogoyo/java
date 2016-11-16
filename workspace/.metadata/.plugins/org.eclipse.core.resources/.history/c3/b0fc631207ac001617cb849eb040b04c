@@ -6,7 +6,7 @@ public class Create_KeySpace {
    public static void main(String args[]){
 
       //Query
-      String query = "CREATE KEYSPACE king_rene WITH replication "
+      String query = "CREATE KEYSPACE tp WITH replication "
          + "= {'class':'SimpleStrategy', 'replication_factor':1};";
                     
       //creating Cluster object
