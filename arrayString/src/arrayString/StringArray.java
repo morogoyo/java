@@ -16,7 +16,7 @@ public class StringArray {
 	test.add("mr");
 	
 	test.add("rene");
-	test.add("asshole");
+	test.add("Torres");
 	
 	System.out.println(test);
 	
